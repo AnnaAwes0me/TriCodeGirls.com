@@ -18,7 +18,7 @@
 			<a href="/middleschool.html">Middle School Group</a>
 			</div>
 			<div class="link4">
-			<a href="/cyberstart.html">Girls Go Cyberstart</a>
+			<a href="/tricodegirls.php?page=cyberstart">Girls Go Cyberstart</a>
 			</div>
 		</div>
 		<h1>Welcome to Tri Code Girls!</h1>
