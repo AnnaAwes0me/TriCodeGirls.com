@@ -1,0 +1,32 @@
+.menu {
+	width: 100%;
+	height: 10%;
+	margin: 0;
+	padding: 0;
+}
+.link2, .link3, .link1, .link4 {
+	display: inline-block;
+	width: 24%;
+	text-align: center;
+}
+
+body {
+	background-color: #8ff8a4;
+}
+
+h1 {	
+	text-align: center; 
+	font-size: 40;
+}
+
+.center {
+	background-color: #a1f8b3;
+	width: 75%;
+	margin: auto;
+	padding: 3%;
+}
+
+.textbody {
+	width: 90%;
+	margin-top: 3%;
+}
