@@ -28,7 +28,12 @@
 				if (!$vname) {
 					$vname = 'tricodegirls';
 				}
+				$pos = strpos($vname,'/');
+				if ($pos !== FALSE) {
+					$vname = 'tricodegirls';
+				}
 				$content = readfile($vname . '.html');
+				
 				echo($content);
 			?>
 		</div>
