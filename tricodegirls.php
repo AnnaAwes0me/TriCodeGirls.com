@@ -32,9 +32,7 @@
 				if ($pos !== FALSE) {
 					$vname = 'tricodegirls';
 				}
-				$content = readfile($vname . '.html');
-				
-				echo($content);
+				readfile($vname . '.html');
 			?>
 		</div>
 	</div>
