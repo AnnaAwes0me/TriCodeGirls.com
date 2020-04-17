@@ -4,12 +4,12 @@
 <title>Tri Code Girls - Homepage</title>
 <link rel="stylesheet" type="text/css" href="tricodegirls.css">
 </head>
-<div class="bigDiv">
-	<body>
+<body>
+<div class="font">
 	<div class="center">
 		<div class="menu">
 			<div class="link1">
-			<a href="www.tricodegirls.com">Home Page</a>
+			<a href="/tricodegirls.html">Home Page</a>
 			</div>
 			<div class="link2">
 			<a href="/highschool.html">Highschool Group</a>
@@ -34,8 +34,6 @@
 				}
 				readfile($vname . '.html');
 			?>
-		</div>
-	</div>
-	</body>
-</div>
+</div>		</div>
+</body>
 </html>
