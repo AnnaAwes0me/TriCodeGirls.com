@@ -21,7 +21,6 @@
 			<a href="/tricodegirls.php?page=cyberstart">Girls Go Cyberstart</a>
 			</div>
 		</div>
-		<h1>Welcome to Tri Code Girls!</h1>
 		<div class="textBody">
 			<?php
 				$vname = $_GET['page'];
