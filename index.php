@@ -8,6 +8,7 @@
 <div class="font">
 	<div class="center">
 		<div class="menu">
+<BR>
 			<div class="link1">
 			<a href="/tricodegirls.html">Home Page</a>
 			</div>
@@ -19,6 +20,7 @@
 			</div>
 			<div class="link4">
 			<a href="/tricodegirls.php?page=cyberstart">Girls Go Cyberstart</a>
+<BR>
 			</div>
 		</div>
 		<div class="textBody">
