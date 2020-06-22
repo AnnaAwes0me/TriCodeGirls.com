@@ -12,12 +12,15 @@
 			<div class="link1">
 			<a href="/tricodegirls.html">Home Page</a>
 			</div>
+<BR>
 			<div class="link2">
 			<a href="/highschool.html">Highschool Group</a>
 			</div>
-			<div class="link3">
+<BR>			
+                        <div class="link3">
 			<a href="/middleschool.html">Middle School Group</a>
 			</div>
+<BR>
 			<div class="link4">
 			<a href="/tricodegirls.php?page=cyberstart">Girls Go Cyberstart</a>
 <BR>
