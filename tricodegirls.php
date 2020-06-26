@@ -8,7 +8,7 @@
 <div class="center">
 <div class="menu">
 <div class="link1">
-<a href="www.tricodegirls.com">Home Page</a>
+<a href="/tricodegirls.html">Home Page</a>
 </div>
 <div class="link2">
 <a href="/highschool.html">Highschool Group</a>
@@ -22,7 +22,6 @@
 
 
 </div>
-<h1>Welcome to Tri Code Girls!</h1>
 <div class="textBody">
 
 			<?php
