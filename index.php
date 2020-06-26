@@ -1,7 +1,7 @@
 <!DOCTYPE HTML>
 <html>
 <head>
-<title>Tri Code Girls - Homepage</title>
+<title>Tri Code Girls</title>
 <link rel="stylesheet" type="text/css" href="tricodegirls.css">
 </head>
 <body>
