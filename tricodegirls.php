@@ -20,7 +20,6 @@
 <a href="/tricodegirls.php?page=cyberstart">Girls Go Cyberstart</a>
 </div>
 
-
 </div>
 <div class="textBody">
 
