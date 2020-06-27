@@ -34,6 +34,7 @@
 				}
 				readfile($vname . '.html');
 			?>
+</div>
 			
 			<?php
 				if (!$vname) {

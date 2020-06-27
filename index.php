@@ -33,6 +33,7 @@
 				}
 				readfile($vname . '.html');
 	?>
+</div>
 			<?php
 				if (!$vname) {
 					$vname = 'middleschool.html'('
@@ -46,6 +47,6 @@
 				}
 	?>
 
-</div>		</div>
+</div>		
 </body>
 </html>
