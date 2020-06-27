@@ -33,7 +33,7 @@
 				}
 				readfile($vname . '.html');
 				readfile($vname . '.html');
-				if ($vname == 'middleschool') {
+				if ($vname == 'cyberstart') {
 					$str = '<style>body {' .
 				'background-color:#2a0c52;' .
 				'}</style>';
