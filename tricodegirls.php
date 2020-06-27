@@ -35,20 +35,5 @@
 				readfile($vname . '.html');
 			?>
 </div>
-			
-			<?php
-				if (!$vname) {
-					$vname = 'middleschool.html'('
-   				 <style type="text/css">
-				body {
-				background-color:#c3bee8
-				}
-				</style>
-				  ', $#c3bee8);
-				echo $styleBlock;
-				}
-	?>
-
-</div>
 </body>
 </div>
