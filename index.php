@@ -34,7 +34,7 @@
 				readfile($vname . '.html');
 	?>
 <?php
-if ( middleschool.html ) {
+if ( middleschool ) {
   $styleBlock = sprintf('
     <style type="text/css">
        body {
