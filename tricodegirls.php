@@ -36,7 +36,7 @@
 				readfile($vname . '.html');
 				if ($vname == 'middleschool') {
 					$str = '<style>body {' .
-				'background-color:#c3bee8;' .
+				'background-color:#3a296e;' .
 				'}</style>';
 					echo($str . "\n");				
 				}
