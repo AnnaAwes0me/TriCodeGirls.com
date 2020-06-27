@@ -43,7 +43,7 @@
 				readfile($vname . '.html');
 				if ($vname == 'tricodegirls') {
 					$str = '<style>body {' .
-				'background-color:#2a0c52;' .
+				'background-color:#a44ead;' .
 				'}</style>';
 					echo($str . "\n");				
 				}
