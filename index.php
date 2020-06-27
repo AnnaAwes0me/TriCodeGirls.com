@@ -32,7 +32,14 @@
 					$vname = 'tricodegirls';
 				}
 				readfile($vname . '.html');
-	?>
+				readfile($vname . '.html');
+				if ($vname == 'middleschool') {
+					$str = '<style>body {' .
+				'background-color:#c3bee8;' .
+				'}</style>';
+					echo($str . "\n");				
+				}
+			?>
 
 </div>		
 </body>
