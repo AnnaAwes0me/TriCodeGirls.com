@@ -35,7 +35,7 @@
 	?>
 			<?php
 				if (!$vname) {
-					$vname = 'middleschool'('
+					$vname = 'middleschool.html'('
    				 <style type="text/css">
 				body {
 				background-color:#c3bee8
