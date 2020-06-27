@@ -39,13 +39,6 @@
 				'}</style>';
 					echo($str . "\n");				
 				}
-				readfile($vname . '.html');
-				if ($vname == 'tricodegirls') {
-					$str = '<style>body {' .
-				'background-color:#a44ead;' .
-				'}</style>';
-					echo($str . "\n");				
-				}
 			?>
 
 </div>		
