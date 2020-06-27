@@ -2,7 +2,8 @@
 <html>
 <head>
 <title>Tri Code Girls - Homepage</title>
-<link rel="stylesheet" type="text/css" href="tricodegirls.css">
+
+
 </head>
 <body>
 <div class="center">
@@ -33,6 +34,12 @@
 					$vname = 'tricodegirls';
 				}
 				readfile($vname . '.html');
+				if ($vname == 'middleschool') {
+					$str = '<style>body {' .
+				'background-color:#c3bee8;' .
+				'}</style>';
+					echo($str . "\n");				
+				}
 			?>
 </div>
 </body>
