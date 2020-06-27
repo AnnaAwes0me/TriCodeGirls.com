@@ -41,7 +41,7 @@
 					echo($str . "\n");				
 				}
 				readfile($vname . '.html');
-				if ($vname == 'cyberstart') {
+				if ($vname == 'tricodegirls') {
 					$str = '<style>body {' .
 				'background-color:#2a0c52;' .
 				'}</style>';
