@@ -32,7 +32,24 @@
 					$vname = 'tricodegirls';
 				}
 				readfile($vname . '.html');
-			?>
-</div>		</div>
+	?>
+
+</div>		
+
+
+<?php
+if ( middleschool.html ) {
+  $styleBlock = sprintf('
+    <style type="text/css">
+       body {
+         background-color:#c3bee8
+       }
+    </style>
+  ', $#c3bee8);
+  echo $styleBlock;
+}
+?>
+
+</div>
 </body>
 </html>
