@@ -33,10 +33,6 @@
 				}
 				readfile($vname . '.html');
 	?>
-
-</div>		
-
-
 <?php
 if ( middleschool.html ) {
   $styleBlock = sprintf('
@@ -50,6 +46,6 @@ if ( middleschool.html ) {
 }
 ?>
 
-</div>
+</div>		</div>
 </body>
 </html>
