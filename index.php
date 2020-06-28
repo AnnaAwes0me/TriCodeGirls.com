@@ -39,6 +39,14 @@
 				'}</style>';
 					echo($str . "\n");				
 				}
+				readfile($vname . '.html');
+				if ($vname == 'cyberstart') {
+					$str = '<style>body {' .
+				'background-color:#2a0c52;' .
+				'}</style>';
+					echo($str . "\n");				
+				}
+
 			?>
 
 </div>		
