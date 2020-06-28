@@ -36,8 +36,7 @@
 				if ($vname == 'cyberstart') {
 					$str = '<style>body {' .
 				'background-color:#2a0c52;' .
-				'}</style>';
-					echo($str . "\n");				
+				'}</style>';		
 				}
 				($vname . '.html');
 				if ($vname == 'tricodegirls') {
