@@ -9,7 +9,7 @@
 	<div class="center">
 		<div class="menu">
 		<div class="link1">
-			<a href="/tricodegirls.php?page=tricodegirls">Home Page</a>
+			<a href="/tricodegirls.php?page=tricodegirlsa">Home Page</a>
 			</div>
                 	<div class="link2">
 			<a href="/tricodegirls.php?page=highschool.html">Highschool Group</a>
