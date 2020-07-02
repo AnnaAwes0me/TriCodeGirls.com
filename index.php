@@ -35,7 +35,7 @@
 				readfile($vname . '.html');
 				if ($vname == 'cyberstart') {
 					$str = '<style>body {' .
-				'background-color:##671780;' .
+				'background-color:#4e1161;' .
 				'}</style>';		
 				}
 				($vname . '.html');
