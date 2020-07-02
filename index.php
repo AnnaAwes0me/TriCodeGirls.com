@@ -35,7 +35,7 @@
 				readfile($vname . '.html');
 				if ($vname == 'cyberstart') {
 					$str = '<style>body {' .
-				'background-color:#2a0c52;' .
+				'background-color:##671780;' .
 				'}</style>';		
 				}
 				($vname . '.html');
@@ -48,7 +48,7 @@
 				($vname . '.html');
 				if ($vname == 'highschool') {
 					$str = '<style>body {' .
-				'background-color:#143e61;' .
+				'background-color:#8f0e44;' .
 				'}</style>';
 					echo($str . "\n");				
 				}
