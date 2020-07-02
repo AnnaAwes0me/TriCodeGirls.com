@@ -47,6 +47,13 @@
 				'}</style>';
 					echo($str . "\n");				
 				}
+				($vname . '.html');
+				if ($vname == 'highschool') {
+					$str = '<style>body {' .
+				'background-color:#143e61;' .
+				'}</style>';
+					echo($str . "\n");				
+				}
 			?>
 </div>
 </body>

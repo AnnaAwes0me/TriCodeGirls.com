@@ -12,10 +12,10 @@
 			<a href="/tricodegirls.php?page=tricodegirlsa">Home Page</a>
 			</div>
                 	<div class="link2">
-			<a href="/tricodegirls.php?page=highschool.html">Highschool Group</a>
+			<a href="/tricodegirls.php?page=highschool">Highschool Group</a>
 			</div>	
                         <div class="link3">
-			<a href="/tricodegirls.php?page=middleschool.html">Middle School Group</a>
+			<a href="/tricodegirls.php?page=middleschool">Middle School Group</a>
 			</div>
 			<div class="link4">
 			<a href="/tricodegirls.php?page=cyberstart">Girls Go Cyberstart</a>
@@ -40,6 +40,13 @@
 				}
 				($vname . '.html');
 				if ($vname == 'tricodegirls') {
+					$str = '<style>body {' .
+				'background-color:#143e61;' .
+				'}</style>';
+					echo($str . "\n");				
+				}
+				($vname . '.html');
+				if ($vname == 'highschool') {
 					$str = '<style>body {' .
 				'background-color:#143e61;' .
 				'}</style>';
