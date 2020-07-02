@@ -41,7 +41,7 @@
 				($vname . '.html');
 				if ($vname == 'tricodegirls') {
 					$str = '<style>body {' .
-				'background-color:#143e61;' .
+				'background-color:#1e4205;' .
 				'}</style>';
 					echo($str . "\n");				
 				}
