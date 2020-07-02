@@ -43,7 +43,7 @@
 				($vname . '.html');
 				if ($vname == 'tricodegirls') {
 					$str = '<style>body {' .
-				'background-color:#1e4205;' .
+				'background-color:#143e61;' .
 				'}</style>';
 					echo($str . "\n");				
 				}
@@ -51,6 +51,13 @@
 				if ($vname == 'highschool') {
 					$str = '<style>body {' .
 				'background-color:#8f0e44;' .
+				'}</style>';
+					echo($str . "\n");				
+				}
+				($vname . '.html');
+				if ($vname == 'middleschool') {
+					$str = '<style>body {' .
+				'background-color:#1e4205;' .
 				'}</style>';
 					echo($str . "\n");				
 				}
