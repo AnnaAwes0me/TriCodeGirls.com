@@ -57,7 +57,7 @@
 				($vname . '.html');
 				if ($vname == 'middleschool') {
 					$str = '<style>body {' .
-				'background-color:#1e4205;' .
+				'background-color:#084704;' .
 				'}</style>';
 					echo($str . "\n");				
 				}
