@@ -35,7 +35,7 @@
 				readfile($vname . '.html');
 				if ($vname == 'cyberstart') {
 					$str = '<style>body {' .
-				'background-color:#4e1161;' .
+				'background-color:#6c1478;' .
 				'}</style>';		
 				}
 				($vname . '.html');
@@ -48,14 +48,14 @@
 				($vname . '.html');
 				if ($vname == 'highschool') {
 					$str = '<style>body {' .
-				'background-color:#8f0e44;' .
+				'background-color:#800136;' .
 				'}</style>';
 					echo($str . "\n");				
 				}
 				($vname . '.html');
 				if ($vname == 'middleschool') {
 					$str = '<style>body {' .
-				'background-color:#1e4205;' .
+				'background-color:#084704;' .
 				'}</style>';
 					echo($str . "\n");				
 				}
